@@ -1,0 +1,1 @@
+/bin/c++  -g  -rdynamic CMakeFiles/basicTransformStudy.dir/basic_transform_study.cpp.o  -o basicTransformStudy 

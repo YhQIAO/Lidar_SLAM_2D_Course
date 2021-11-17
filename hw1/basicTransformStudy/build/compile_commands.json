@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qyh/Desktop/Lidar_SLAM_Course/hw1/basicTransformStudy/build",
+  "command": "/bin/c++   -I/usr/include/eigen3  -g   -o CMakeFiles/basicTransformStudy.dir/basic_transform_study.cpp.o -c /home/qyh/Desktop/Lidar_SLAM_Course/hw1/basicTransformStudy/basic_transform_study.cpp",
+  "file": "/home/qyh/Desktop/Lidar_SLAM_Course/hw1/basicTransformStudy/basic_transform_study.cpp"
+}
+]
